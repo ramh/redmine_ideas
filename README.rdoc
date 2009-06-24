@@ -1,0 +1,3 @@
+= ideas
+
+Redmine plugin for managing and voting on ideas
